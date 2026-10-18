@@ -1,0 +1,27 @@
+CORAZÓN LOVE YOU - PÁGINA WEB
+
+Archivos:
+- index.html: la página web con la animación.
+- love_you.mp3: debes copiar aquí tu canción.
+
+ANTES DE PROBAR:
+1. Extrae el ZIP.
+2. Copia tu audio a esta misma carpeta.
+3. El archivo debe llamarse exactamente: love_you.mp3
+   Si tiene otro nombre, renómbralo o cambia el nombre en la línea del audio de index.html.
+4. Abre index.html con Chrome o Edge para probarlo.
+5. Pulsa “Toca para escuchar la música”. Los navegadores de celular normalmente requieren tocar un botón para iniciar el audio.
+
+PARA COMPARTIR POR ENLACE CON GITHUB PAGES:
+1. Entra a github.com e inicia sesión.
+2. Crea un repositorio nuevo, por ejemplo: corazon-love-you.
+3. Sube index.html Y love_you.mp3 al repositorio (ambos en la raíz, no dentro de otra carpeta).
+4. Ve a Settings > Pages.
+5. En “Build and deployment”, selecciona “Deploy from a branch”.
+6. Selecciona la rama main y la carpeta /(root), y pulsa Save.
+7. Espera unos minutos. GitHub mostrará un enlace parecido a:
+   https://TU-USUARIO.github.io/corazon-love-you/
+8. Envía ese enlace por WhatsApp.
+
+NOTA:
+El archivo MP3 se publica junto con la página, así que cualquiera que tenga el enlace podrá acceder a él. Usa una canción que tengas permiso para compartir.
